@@ -27,7 +27,7 @@ yarn
 
 > use `yarn` for yarn.lock
 
-1. The environment setting (.env file) must be entered as follows.
+2. The environment setting (.env file) must be entered as follows.
 
 ```
 STAGE=<YOUR_STAGE>
