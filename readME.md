@@ -10,7 +10,7 @@ Project Using this boiler : [Demo](https://api.memona.site)
 
 ## Feature
 
-- GraphQL Structure structure designed by me
+- GraphQL Folder Structure designed by me
 - Authentication using context
 - JWT Token creation and issuance
 - MongoDB integration using DataSource (ODM - Mongoose)
